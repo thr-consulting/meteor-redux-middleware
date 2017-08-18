@@ -58,6 +58,11 @@
     "test",
     "docs:md"
   ],
+  "greenkeeper": {
+    "ignore": [
+      "eslint-plugin-jsx-a11y"
+    ]
+  },
   "dependencies": {
     "@thx/ducks": "^1.0.0",
     "debug": "^3.0.0",
