@@ -65,7 +65,7 @@
     ]
   },
   "dependencies": {
-    "@thx/ducks": "^1.0.0",
+    "@thx/ducks": "^3.0.0",
     "debug": "^3.0.0",
     "immutable": "^3.8.1"
   }
